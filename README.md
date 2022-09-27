@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MukeshAppana
 - 👀 I’m interested in Frontend, Backend. MERN technologies.
 - 🌱 I’m currently learning MERN , Python ,SQL
-- 💞️ I’m looking to collaborate on Java script , Nide , react based projects.
+- 💞️ I’m looking to collaborate on Python, Java script , Node , React based projects.
 - 📫 How to reach me appanamukesh77@gmaill.com
 - ☎ Cn call ,Whats app me on +91-8143319470.
 
