@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MukeshAppana
 - 👀 I’m interested in Frontend, Backend. MERN technologies.
-- 🌱 I’m currently learning MERN , Python ,SQlite, MogoDB , Mongoose ODM
-- 💞️ I’m looking to collaborate on Python, Java script , Node , React based projects.
+- 🌱 I’m currently learning MERN , Python ,SQlite, MogoDB
+- 💞️ I’m looking to collaborate on Python, Java script , Node , React based projects.(Open to learn new technologies)
 - 📫 How to reach me appanamukesh77@gmaill.com
 - ☎ Can call ,Whats app me on +91-8143319470.
 
