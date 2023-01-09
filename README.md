@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MukeshAppana
-- 👀 I’m interested in Frontend, Backend. MERN technologies.
+- 👀 I’m interested in Frontend, Backend,Database & MERN stack Technologies (Technologies that make brains do critical thinking and make creative).
 - 🌱 I’m currently learning MERN , Python ,SQlite, MogoDB
 - 💞️ I’m looking to collaborate on Python, Java script , Node , React based projects.(Open to learn new technologies)
 - 📫 How to reach me appanamukesh77@gmaill.com
