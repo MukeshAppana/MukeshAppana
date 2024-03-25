@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshappana&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshappana" /> </p>
 
-- 🌱 I’m currently learning **OOPS , Flutter**
+- 🌱 I’m currently Working on **OOPS , **Python, **MchineLearning
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, SQLite, MongoDB,NodeJS, ReactJS**
 
