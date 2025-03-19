@@ -6,14 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshappana&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshappana" /> </p>
 
-- 🌱 I’m currently Working on **OOPS , **Python, **MchineLearning
+- 🌱 I’m currently Working on Gen AI** and Agents**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, SQLite, MongoDB,NodeJS, ReactJS**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, SQLite, Machine Learning, Neural networks, Deep learning*, Generative AI*, Agentic AI(Agents)*.
 
 - 📫 How to reach me **appanamukesh77@gmail.como**
 
 - 📄 Know about my experiences 
-https://drive.google.com/file/d/1AblGSaUcDMVXBi6NRBLyonG4fg4_1Iyv/view?usp=share_link
+[Resume](https://drive.google.com/file/d/1vR0Bo9Mlr6Ab8Ed3dNiCgLa-6KKc77Bp/view?usp=drive_link)k
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
